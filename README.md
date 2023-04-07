@@ -1,3 +1,3 @@
 # gravel-pit.helix
 
-![Image]{./images/example.png}
+![Image](./images/example.png)
