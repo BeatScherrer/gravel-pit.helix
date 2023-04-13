@@ -51,8 +51,9 @@
 "ui.background" = { bg = "bg0" }
 "ui.background.separator" = "bg1"
 "ui.cursor" = { fg = "bg0", bg = "comments" }
-"ui.cursor.match" = { fg = "black", bg = "yellow" }
-"ui.cursor.insert" = { fg = "bg0", bg = "red" }
+"ui.cursor.primary" = { fg = "bg0", bg = "fg" }
+"ui.cursor.match" = { fg = "black", bg = "comments" }
+"ui.cursor.insert" = { fg = "bg0", bg = "comments" }
 "ui.cursor.select" = { fg = "bg0", bg = "selection" }
 "ui.cursorline.primary" = { bg = "bg1" }
 "ui.cursorline.secondary" = { bg = "bg1" }
